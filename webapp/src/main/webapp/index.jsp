@@ -2,5 +2,5 @@
 <<<<<<< HEAD
 <h1>This is New Update!!!</h1>
 =======
-<h1>This is New Update!!!  First PIPELINE CODE WITH EC2 CONTAINER </h1>
+<h1>This is New Update!!!  First PIPELINE CODE WITH EC2 CONTAINER Yess</h1>
 
