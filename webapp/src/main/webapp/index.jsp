@@ -26,7 +26,7 @@
 
 <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
 
-<HR>
+
 
 </BODY>
 
