@@ -2,7 +2,7 @@
 
 <HEAD>
 
-<TITLE>Your Title Here</TITLE>
+<TITLE>kishan patel</TITLE>
 
 </HEAD>
 
@@ -12,15 +12,11 @@
 
 
 
-<H1>Mehul Vasani and Kishan Patel Are best friends</H1>
+<H1>Kishan Patel is good boy</H1>
 
 <H2>This is a Medium Header</H2>
 
-
-
-
-
-<P> Mehul Vasani
+<P> Kishan Patel
 
 <P> <B>This is a new paragraph!</B>
 
